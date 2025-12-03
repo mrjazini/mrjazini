@@ -1,6 +1,6 @@
 <!-- Welcome Banner -->
-<h1 align="center">👋 Hi! I'm Majid</h1>
-<h3 align="center">Developer & Graphic Designer | Based in Beirut, Lebanon</h3>
+<h1 align="center">👋 Hi! I'm Mohammad</h1>
+<h3 align="center">Developer & Graphic Designer | Based in Iran, Tehran</h3>
 
 <p align="center">
   Welcome to my GitHub profile!  
@@ -35,23 +35,13 @@ Aside from programming, I also work as a **graphic designer**, which helps me bl
 ## 🏆 Trophies & GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrjazini&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjazini&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrjazini&theme=onedark&margin-w=10" />
 </p>
-
-> ⚠️ **Don't forget** to replace  
-**YOUR_USERNAME**  
-with your actual GitHub username.
-
----
-
-## 🤝 Work With Me  
-If you have a project and need a creative and reliable developer, I’d be happy to help.  
-Feel free to reach out anytime.
 
 ---
 
